@@ -12,7 +12,7 @@ It features an elegant design where customers can explore the menu, learn about 
  - Customer Feedback Section with ratings and testimonials.
 
 # 🛠 Tech Stack
- - **HTML5** – Page structure
+   - **HTML5** – Page structure
 
    - **CSS3** – Styling and layout
 
