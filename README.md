@@ -23,6 +23,9 @@ It features an elegant design where customers can explore the menu, learn about 
  -  ┗ 📂 images/           # Food & chef images
 # 🚀 How to Run Locally
 ### Clone the repository
+https://programingwithdeepak.github.io/Restaurant-Booking-application/
 
 
 # 📸 Screenshot
+<img width="958" height="486" alt="image" src="https://github.com/user-attachments/assets/1d48526c-ad6b-4367-9860-4b1ca87cf74b" />
+
